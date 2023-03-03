@@ -46,8 +46,8 @@
 <br/>
 
 <div>  
-<h2 align='center'>Introdução ao PlanStudy 📝</h2>
-  <p align="justify">A ideia do PlanStudy surgiu a partir da necessidade de organização estudantil notada pelos integrantes do grupo, uma vez que esses identificaram dificuldades em encontrar uma maneira efetiva que auxiliasse no processo de gerenciamento de estudos do cotidiano universitário.</p>
+<h2 align='center'>Introdução ao Struct 🤖</h2>
+  <p align="justify">A ideia do Struct surgiu a partir da necessidade de organização estudantil notada pelos integrantes do grupo, uma vez que esses identificaram dificuldades em encontrar uma maneira efetiva que auxiliasse no processo de gerenciamento de estudos do cotidiano universitário.</p>
   
   <h4>Então, se você:</h4>
   <ul>
@@ -58,6 +58,6 @@
     <li>Já se sentiu improdutivo no semestre por desorganização (e começou a perceber que faltava tempo para aquele rolê universitário tão esperado 🍻🙃).</li>
   </ul>
   
-  <p align="center"><strong>O PlanStudy chegou para facilitar sua vida acadêmica! Venha conhecê-lo!</strong> <p> 
+  <p align="center"><strong>O Struct chegou para facilitar sua vida acadêmica! Venha conhecê-lo!</strong> <p> 
   
 </div>
